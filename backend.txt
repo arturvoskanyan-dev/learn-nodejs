@@ -1,0 +1,108 @@
+ 1. Հիմքեր (Node.js & Express)
+
+✅ Module system (CommonJS - require vs import)
+
+✅ Express.js – setup & առաջին սերվեր
+
+✅ Route-ներ՝ GET, POST, PUT, DELETE
+
+✅ Request/response (req, res)
+
+✅ HTTP status code-ներ
+
+✅ Middleware-ներ (custom, built-in, 3rd-party)
+
+✅ Body parsing (express.json())
+
+🛠️ 2. Routing & REST API
+✅ RESTful API սկզբունքներ
+
+✅ Route parameter (/user/:id)
+
+✅ Query parameter (/search?q=abc)
+
+✅ Modular routing – route ֆայլեր
+
+✅ Error handling middleware
+
+✅ CORS – Ինչ է, ինչպես միացնել
+
+💾 3. Տվյալների բազա՝ MongoDB + Mongoose
+✅ Ինչ է MongoDB, NoSQL
+
+✅ MongoDB Atlas կամ Local Mongo
+
+✅ Mongoose setup
+
+✅ Schema & Model ստեղծում
+
+✅ CRUD գործողություններ (create, read, update, delete)
+
+✅ Data validation mongoose-ով
+
+✅ MongoDB ID-ներ և ObjectId
+
+✅ Relational տվյալներ (populate)
+
+🧪 4. Authentication & Authorization
+✅ Հաշվառման գաղափար (Sign Up / Sign In)
+
+✅ Hashing with bcrypt
+
+✅ JSON Web Tokens (JWT)
+
+✅ Protected routes
+
+✅ Middleware for auth
+
+✅ Refresh tokens (advanced)
+
+📁 5. Նախագծի կառուցվածք & պրակտիկա
+✅ MVC կառուցվածք (models, views, controllers)
+
+✅ .env ֆայլ և գաղտնիքներ (dotenv)
+
+✅ Structured project folder (routes, controllers, models)
+
+✅ Nodemon dev tool
+
+✅ Error logging
+
+✅ API documentation (Swagger կամ պարզ readme)
+
+📷 6. Լրացուցիչ ֆունկցիոնալ
+✅ File Upload (Multer)
+
+✅ Sending emails (nodemailer)
+
+✅ Pagination, filtering, sorting
+
+✅ Request rate limiting (helmet, rate-limit)
+
+✅ Input validation (Joi, express-validator)
+
+✅ Sending custom responses (standard format)
+
+🚀 7. Deployment & Best Practices
+✅ Git & GitHub project init
+
+✅ Deployment to Render, Vercel կամ Railway
+
+✅ Connecting frontend to backend (CORS, API calls)
+
+✅ Production vs development config
+
+✅ Securing .env, secrets
+
+✅ Debugging tools (logger, debug)
+
+🎁 Bonus (Optional + Advanced)
+✅ WebSockets (chat apps, real-time updates)
+
+✅ Cron Jobs
+
+✅ Role-based Access Control (RBAC)
+
+✅ Mongo Aggregation Pipeline
+
+✅ Unit testing (Jest, Supertest)
