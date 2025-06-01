@@ -1,8 +1,7 @@
 1. Node.js Հիմունքներ
 - Ներմուծումներ և Բաժանում (Modules)
-CommonJS մոդուլների համակարգ (require, module.exports)
-
-ES6 Modules (import/export)
+✅ CommonJS մոդուլների համակարգ (require, module.exports)
+✅ ES6 Modules (import/export)
 
 Third-party Libraries (npm packages)
 
