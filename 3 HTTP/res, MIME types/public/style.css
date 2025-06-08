@@ -1,0 +1,13 @@
+h2 {
+    color: red;
+}
+
+button {
+    width: 280px;
+    padding: 12px;
+    font-size: 21px;
+    background-color: indigo;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
